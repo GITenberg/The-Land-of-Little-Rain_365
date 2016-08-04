@@ -1,0 +1,34 @@
+_repo: The-Land-of-Little-Rain_365
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Austin, Mary Hunter
+    birthdate: 1868
+    deathdate: 1934
+    gutenberg_agent_id: '201'
+    url: http://www.gutenberg.org/2009/agents/201
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Hunter_Austin
+description: ''
+gutenberg_issued: '2008-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '365'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F850.5'
+- !lcsh 'California -- Description and travel'
+- !lcsh 'California -- History, Local'
+- !lcsh 'Natural history -- California'
+- !lcsh 'Frontier and pioneer life -- California'
+- !lcsh 'California -- Social life and customs'
+- GITenberg
+tableOfContents: The land of little rain -- Water trails of the Carrizo -- The scavengers
+  -- The pocket hunter -- Shoshone land -- Jimville, a Bret Harte town. -- My neighbor's
+  field -- The Mesa trail -- The basket maker -- The streets of the mountains -- Water
+  borders -- Other water borders -- Nurslings of the sky -- The little town of the
+  grape vines
+title: The Land of Little Rain
+url: http://www.gutenberg.org/ebooks/365
